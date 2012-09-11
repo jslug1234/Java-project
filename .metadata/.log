@@ -1,0 +1,74 @@
+!SESSION 2012-09-11 12:38:26.891 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.6.0_33
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/joshlovins/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86 -product org.eclipse.epp.package.jee.product -keyring /Users/joshlovins/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2012-09-11 12:39:11.238
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.equinox.p2.operations 2 0 2012-09-11 12:41:01.909
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2012-09-11 12:41:01.909
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10006 2012-09-11 12:41:01.909
+!MESSAGE "Swing Designer" is already present because other installed software requires it.  It will be added to the installed software list.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2012-09-11 12:41:01.909
+!MESSAGE "SWT Designer Documentation" will be ignored because it is already installed.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2012-09-11 12:41:01.909
+!MESSAGE "SWT Designer" will be ignored because it is already installed.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2012-09-11 12:41:01.909
+!MESSAGE "SWT Designer SWT_AWT Support" will be ignored because it is already installed.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2012-09-11 12:41:01.909
+!MESSAGE "SWT Designer Core" will be ignored because it is already installed.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2012-09-11 12:41:01.909
+!MESSAGE "SWT Designer XWT Support (requires Eclipse WTP/WST)" will be ignored because it is already installed.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2012-09-11 12:41:01.909
+!MESSAGE "WindowBuilder XML Core (requires Eclipse WTP/WST)" will be ignored because it is already installed.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2012-09-11 12:41:01.909
+!MESSAGE "WindowBuilder Core Documentation" will be ignored because it is already installed.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2012-09-11 12:41:01.909
+!MESSAGE "WindowBuilder GroupLayout Support" will be ignored because it is already installed.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2012-09-11 12:41:01.909
+!MESSAGE "WindowBuilder Core" will be ignored because it is already installed.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2012-09-11 12:41:01.909
+!MESSAGE "WindowBuilder Core UI" will be ignored because it is already installed.
+
+!ENTRY org.eclipse.equinox.p2.operations 2 0 2012-09-11 12:41:01.914
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2012-09-11 12:41:01.914
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10006 2012-09-11 12:41:01.915
+!MESSAGE "Swing Designer" is already present because other installed software requires it.  It will be added to the installed software list.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2012-09-11 12:41:01.915
+!MESSAGE "SWT Designer Documentation" will be ignored because it is already installed.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2012-09-11 12:41:01.915
+!MESSAGE "SWT Designer" will be ignored because it is already installed.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2012-09-11 12:41:01.915
+!MESSAGE "SWT Designer SWT_AWT Support" will be ignored because it is already installed.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2012-09-11 12:41:01.915
+!MESSAGE "SWT Designer Core" will be ignored because it is already installed.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2012-09-11 12:41:01.915
+!MESSAGE "SWT Designer XWT Support (requires Eclipse WTP/WST)" will be ignored because it is already installed.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2012-09-11 12:41:01.915
+!MESSAGE "WindowBuilder XML Core (requires Eclipse WTP/WST)" will be ignored because it is already installed.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2012-09-11 12:41:01.915
+!MESSAGE "WindowBuilder Core Documentation" will be ignored because it is already installed.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2012-09-11 12:41:01.915
+!MESSAGE "WindowBuilder GroupLayout Support" will be ignored because it is already installed.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2012-09-11 12:41:01.915
+!MESSAGE "WindowBuilder Core" will be ignored because it is already installed.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2012-09-11 12:41:01.915
+!MESSAGE "WindowBuilder Core UI" will be ignored because it is already installed.
+!SESSION 2012-09-11 12:42:49.677 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.6.0_33
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/joshlovins/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86 -product org.eclipse.epp.package.jee.product -keyring /Users/joshlovins/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2012-09-11 12:42:57.957
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
